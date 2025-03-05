@@ -13,7 +13,7 @@
 - [CodeChef Profile](https://www.codechef.com/users/suchir31)
 - [HackerRank Profile](https://www.hackerrank.com/profile/suchirreddy31)
 - [Linkedin Profile](https://www.linkedin.com/in/v-suchir-694b38265/).
-<!---
+-[leetcode Profile(https://leetcode.com/u/suchir_31/).
 suchir31/suchir31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
